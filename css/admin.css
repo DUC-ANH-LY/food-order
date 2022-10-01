@@ -51,7 +51,7 @@
   width: 100%;
 }
 .tbl-30{
-  width:16%;
+  width:40%;
 }
 table tr th {
   border-bottom: 1px solid black;
@@ -59,7 +59,8 @@ table tr th {
   text-align: left;
 }
 table tr td {
-  padding: 1%;
+  padding: 0.5%;
+  text-align: left;
 }
 .btn-primary {
   background-color: greenyellow;
